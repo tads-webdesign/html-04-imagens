@@ -102,7 +102,7 @@ Definem as dimensões da imagem em pixels. É recomendado especificar ambos para
 Exibe um tooltip quando o usuário passa o mouse sobre a imagem.
 
 ```html
-<img src="produto.jpg" 
+<img src="notebook.jpg" 
      alt="Notebook prata" 
      title="Notebook Dell Inspiron - Clique para mais detalhes">
 ```
@@ -123,7 +123,7 @@ Controla como a imagem é carregada. Valores:
 ### Exemplo Completo com Todos os Atributos
 
 ```html
-<img src="imagens/produto.jpg" 
+<img src="imagens/smartphone.jpg" 
      alt="Smartphone modelo X com tela de 6.5 polegadas" 
      width="400" 
      height="600" 
